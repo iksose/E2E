@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/iksose/E2E.svg?branch=master)](https://travis-ci.org/iksose/E2E)
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
